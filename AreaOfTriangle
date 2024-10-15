@@ -1,0 +1,5 @@
+#program  to calculate area of triangle
+b=float(input("Enter Breadth:"))
+h=float(input("Enter Hieght:"))
+area=0.5*b*h
+print("The area of the triangle is: "+str(area))
