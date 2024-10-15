@@ -1,0 +1,3 @@
+listname=list(map(str,input("Enter Full name:").split(' ')))
+for i in listname:
+    print(i)
