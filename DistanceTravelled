@@ -1,0 +1,6 @@
+#program to calculate the distance travelled 
+u=int(input("Enter the value of u:"))
+t=int(input("Enter the value of t:"))
+a=int(input("Enter the value of a:"))
+s=(u*t)+(0.5*a*t*t)
+print("The distance travelled is "+str(s))
